@@ -15,7 +15,7 @@ export const projects = [
   },
   {
     title: "Portfolio Salman",
-    url: "https://salman.netlify.app",
+    url: "https://salmancz.netlify.app",
     image: "projects/salman.png",
     description: "Salman's portfolio",
   },
