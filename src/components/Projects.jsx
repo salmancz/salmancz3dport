@@ -9,25 +9,25 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "Web I",
-    url: "webinnoventix.com",
+    url: "https://webinnoventix.com",
     image: "projects/webi.png",
     description: "Web Innoventix Classic Landing page",
   },
   {
     title: "Portfolio Salman",
-    url: "salman.netlify.app",
+    url: "https://salman.netlify.app",
     image: "projects/salman.png",
     description: "Salman's portfolio",
   },
   {
     title: "Exploore ooty",
-    url: "exploreooty.com",
+    url: "https://exploreooty.com",
     image: "projects/explore.png",
     description: "explore oorty",
   },
   {
     title: "BCOM WALA",
-    url: "bcomwala.com",
+    url: "https://bcomwala.com",
     image: "projects/bcom.png",
     description: "BCOM Ecommerce for crackers",
   },
